@@ -1,4 +1,4 @@
-# Better Fit - Modern React Starter
+# Modern React Starter
 
 A production-ready React starter built with the latest technologies and best practices for modern web development.
 
